@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TetelBank")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bac4b1ebf58e2eac9ee2f680bc6afc9411dbd2a9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1f43178af3ab8e15ee7f3393ba25c5fcecdc54b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TetelBank")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TetelBank")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

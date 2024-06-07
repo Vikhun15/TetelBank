@@ -20,3 +20,34 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.tetelName {
+    padding: 5px 20px;
+}
+
+.tetelName:hover{
+    background-color: purple;
+    color:white;
+    cursor: pointer;
+}
+
+.tetelName:active{
+    background-color: mediumpurple;
+}
+
+.download {
+    max-width: 40px;
+    max-height: 40px;
+    aspect-ratio: 1/1 !important;
+    padding: 0;
+}
+
+.tetelek{
+    padding:0;
+    margin:0;
+    list-style-type: none;
+}
+
+.accordion-body{
+    padding:0;
+}

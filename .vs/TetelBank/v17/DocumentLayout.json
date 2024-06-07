@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52940181-C120-4892-B894-37B0786CA515}|TetelBank\\TetelBank.csproj|c:\\users\\okvik\\documents\\prog_projects\\c#\\tetelbank\\tetelbank\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{52940181-C120-4892-B894-37B0786CA515}|TetelBank\\TetelBank.csproj|solutionrelative:tetelbank\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52940181-C120-4892-B894-37B0786CA515}|TetelBank\\TetelBank.csproj|c:\\users\\okvik\\documents\\prog_projects\\c#\\tetelbank\\tetelbank\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52940181-C120-4892-B894-37B0786CA515}|TetelBank\\TetelBank.csproj|solutionrelative:tetelbank\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52940181-C120-4892-B894-37B0786CA515}|TetelBank\\TetelBank.csproj|c:\\users\\okvik\\documents\\prog_projects\\c#\\tetelbank\\tetelbank\\model\\temakor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52940181-C120-4892-B894-37B0786CA515}|TetelBank\\TetelBank.csproj|solutionrelative:tetelbank\\model\\temakor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52940181-C120-4892-B894-37B0786CA515}|TetelBank\\TetelBank.csproj|c:\\users\\okvik\\documents\\prog_projects\\c#\\tetelbank\\tetelbank\\model\\tetel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52940181-C120-4892-B894-37B0786CA515}|TetelBank\\TetelBank.csproj|solutionrelative:tetelbank\\model\\tetel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52940181-C120-4892-B894-37B0786CA515}|TetelBank\\TetelBank.csproj|c:\\users\\okvik\\documents\\prog_projects\\c#\\tetelbank\\tetelbank\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52940181-C120-4892-B894-37B0786CA515}|TetelBank\\TetelBank.csproj|solutionrelative:tetelbank\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52940181-C120-4892-B894-37B0786CA515}|TetelBank\\TetelBank.csproj|c:\\users\\okvik\\documents\\prog_projects\\c#\\tetelbank\\tetelbank\\model\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52940181-C120-4892-B894-37B0786CA515}|TetelBank\\TetelBank.csproj|solutionrelative:tetelbank\\model\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52940181-C120-4892-B894-37B0786CA515}|TetelBank\\TetelBank.csproj|c:\\users\\okvik\\documents\\prog_projects\\c#\\tetelbank\\tetelbank\\model\\directoryreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52940181-C120-4892-B894-37B0786CA515}|TetelBank\\TetelBank.csproj|solutionrelative:tetelbank\\model\\directoryreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52940181-C120-4892-B894-37B0786CA515}|TetelBank\\TetelBank.csproj|c:\\users\\okvik\\documents\\prog_projects\\c#\\tetelbank\\tetelbank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52940181-C120-4892-B894-37B0786CA515}|TetelBank\\TetelBank.csproj|solutionrelative:tetelbank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +42,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "TetelBank\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "TetelBank\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-07T03:19:13.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TemaKor.cs",
+              "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\Model\\TemaKor.cs",
+              "RelativeDocumentMoniker": "TetelBank\\Model\\TemaKor.cs",
+              "ToolTip": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\Model\\TemaKor.cs",
+              "RelativeToolTip": "TetelBank\\Model\\TemaKor.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T01:04:44.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DirectoryReader.cs",
+              "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\Model\\DirectoryReader.cs",
+              "RelativeDocumentMoniker": "TetelBank\\Model\\DirectoryReader.cs",
+              "ToolTip": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\Model\\DirectoryReader.cs",
+              "RelativeToolTip": "TetelBank\\Model\\DirectoryReader.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T01:04:23.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileReader.cs",
+              "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\Model\\FileReader.cs",
+              "RelativeDocumentMoniker": "TetelBank\\Model\\FileReader.cs",
+              "ToolTip": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\Model\\FileReader.cs",
+              "RelativeToolTip": "TetelBank\\Model\\FileReader.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T00:47:59.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\Program.cs",
+              "RelativeDocumentMoniker": "TetelBank\\Program.cs",
+              "ToolTip": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\Program.cs",
+              "RelativeToolTip": "TetelBank\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T00:46:27.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TetelBank\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TetelBank\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAB4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T00:44:29.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "TetelBank\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\Pages\\Index.cshtml",
+              "RelativeToolTip": "TetelBank\\Pages\\Index.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAwC8AAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T00:43:55.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tetel.cs",
+              "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\Model\\Tetel.cs",
+              "RelativeDocumentMoniker": "TetelBank\\Model\\Tetel.cs",
+              "ToolTip": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\Model\\Tetel.cs",
+              "RelativeToolTip": "TetelBank\\Model\\Tetel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T01:04:52.178Z",
+              "EditorCaption": ""
             }
           ]
         }

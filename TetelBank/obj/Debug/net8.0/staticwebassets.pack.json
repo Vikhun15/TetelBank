@@ -1,0 +1,605 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TetelBank.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TetelBank.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Infó ismeretek\\1.1.1 A számítógép felépítése.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Infó ismeretek\\1.1.1 A számítógép felépítése.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Infó ismeretek\\1.1.1 Hordozható eszközök, ergonómia.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Infó ismeretek\\1.1.1 Hordozható eszközök, ergonómia.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Infó ismeretek\\1.1.2 Operációs rendszerek.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Infó ismeretek\\1.1.2 Operációs rendszerek.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Infó ismeretek\\1.2.2 Háttértárak típusai, formázása.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Infó ismeretek\\1.2.2 Háttértárak típusai, formázása.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Infó ismeretek\\1.2.2 Szoftverek telepítése.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Infó ismeretek\\1.2.2 Szoftverek telepítése.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Infó ismeretek\\1.2.3 Nyomtató üzembe helyezése, karbantartása.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Infó ismeretek\\1.2.3 Nyomtató üzembe helyezése, karbantartása.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Infó ismeretek\\2.1.1 A HTML és a JavaScript nyelv elemei.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Infó ismeretek\\2.1.1 A HTML és a JavaScript nyelv elemei.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Infó ismeretek\\2.1.3 Alprogramok, paraméterátadás.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Infó ismeretek\\2.1.3 Alprogramok, paraméterátadás.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Infó ismeretek\\2.1.3 Vezérlési szerkezetek.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Infó ismeretek\\2.1.3 Vezérlési szerkezetek.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Infó ismeretek\\2.1.3 Változó fogalma típusai használatuk.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Infó ismeretek\\2.1.3 Változó fogalma típusai használatuk.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Infó ismeretek\\2.1.3. Objektum orientált programozás alapjai.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Infó ismeretek\\2.1.3. Objektum orientált programozás alapjai.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Infó ismeretek\\2.1.7 Adatbázis-kezelés alapfogalmai.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Infó ismeretek\\2.1.7 Adatbázis-kezelés alapfogalmai.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Infó ismeretek\\3.1.1 Hálózati topológiák.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Infó ismeretek\\3.1.1 Hálózati topológiák.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Infó ismeretek\\3.1.2 Hálózati modellek.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Infó ismeretek\\3.1.2 Hálózati modellek.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Infó ismeretek\\3.1.2 atviteli_kozegek.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Infó ismeretek\\3.1.2 atviteli_kozegek.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Infó ismeretek\\3.1.3 Hálózati cím fogalma, fajtái.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Infó ismeretek\\3.1.3 Hálózati cím fogalma, fajtái.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Infó ismeretek\\3.1.4 Az IPv4-es cím és maszk felépítése, alhálózatok.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Infó ismeretek\\3.1.4 Az IPv4-es cím és maszk felépítése, alhálózatok.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Infó ismeretek\\3.1.6 SWITCH ALAPSZINTŰ KONFIGURÁLÁSA.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Infó ismeretek\\3.1.6 SWITCH ALAPSZINTŰ KONFIGURÁLÁSA.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Infó ismeretek\\3.1.7 FORGALOMIRÁNYÍTÁS, IRÁNYÍTÓTÁBA.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Infó ismeretek\\3.1.7 FORGALOMIRÁNYÍTÁS, IRÁNYÍTÓTÁBA.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Infó ismeretek\\3.1.9 DHCP IPv4-es környezetben.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Infó ismeretek\\3.1.9 DHCP IPv4-es környezetben.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Infó ismeretek\\informatikai_ismeretek_tetellista_24.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Infó ismeretek\\informatikai_ismeretek_tetellista_24.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Irodalom\\01. Ady Endre - Új versek.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Irodalom\\01. Ady Endre - Új versek.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Irodalom\\02. Arany János nagykőrösi balladái.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Irodalom\\02. Arany János nagykőrösi balladái.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Irodalom\\03. Babits Mihály Jónás könyve.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Irodalom\\03. Babits Mihály Jónás könyve.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Irodalom\\04. Herczeg Ferencz Fekete szüret a Badacsonyon.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Irodalom\\04. Herczeg Ferencz Fekete szüret a Badacsonyon.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Irodalom\\05. Jókai Mór Az arany ember.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Irodalom\\05. Jókai Mór Az arany ember.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Irodalom\\06. József Attila tájköltészete.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Irodalom\\06. József Attila tájköltészete.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Irodalom\\07. A gyermekkor témája Kosztolányi Dezső novelláiban.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Irodalom\\07. A gyermekkor témája Kosztolányi Dezső novelláiban.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Irodalom\\08. Mikszáth Kálmán novellái.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Irodalom\\08. Mikszáth Kálmán novellái.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Irodalom\\09. Petőfi Sándor ars poeticái.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Irodalom\\09. Petőfi Sándor ars poeticái.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Irodalom\\10. Vörösmarty Gondolatok a könyvtárban.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Irodalom\\10. Vörösmarty Gondolatok a könyvtárban.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Irodalom\\11. Csokonai Vitéz Mihály és a szentimentalizmus.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Irodalom\\11. Csokonai Vitéz Mihály és a szentimentalizmus.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Irodalom\\12. Móricz Zsigmond egy választott műve.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Irodalom\\12. Móricz Zsigmond egy választott műve.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Irodalom\\13. Radnóti Miklós.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Irodalom\\13. Radnóti Miklós.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Irodalom\\14. Dsida Jenő.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Irodalom\\14. Dsida Jenő.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Irodalom\\15. Bodor Ádám.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Irodalom\\15. Bodor Ádám.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Irodalom\\16. Az antik eposz.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Irodalom\\16. Az antik eposz.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Irodalom\\17. A realizmus, egy választott mű.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Irodalom\\17. A realizmus, egy választott mű.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Irodalom\\18. Az ókori görög színház és dráma.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Irodalom\\18. Az ókori görög színház és dráma.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Irodalom\\19. Madách Az ember tragédiája.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Irodalom\\19. Madách Az ember tragédiája.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Irodalom\\20. A Biblia mint kulturális kód.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Irodalom\\20. A Biblia mint kulturális kód.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Irodalom\\Irodalom_tetellista_24.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Irodalom\\Irodalom_tetellista_24.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Nyelvtan\\01. A kommunikációs folyamat tényezői és típusai.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Nyelvtan\\01. A kommunikációs folyamat tényezői és típusai.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Nyelvtan\\02. Az emberi kommunikáció nem nyelvi jelei és kifejezőeszközei.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Nyelvtan\\02. Az emberi kommunikáció nem nyelvi jelei és kifejezőeszközei.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Nyelvtan\\03. A tömegkommunikáció jellemzői és funkciói.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Nyelvtan\\03. A tömegkommunikáció jellemzői és funkciói.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Nyelvtan\\04. A magyar nyelv történetének fő korszakai.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Nyelvtan\\04. A magyar nyelv történetének fő korszakai.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Nyelvtan\\05. A nyelvtörténet forrásai.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Nyelvtan\\05. A nyelvtörténet forrásai.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Nyelvtan\\06. A nyelvújítás.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Nyelvtan\\06. A nyelvújítás.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Nyelvtan\\07. A nyelv mint jelrendszer.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Nyelvtan\\07. A nyelv mint jelrendszer.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Nyelvtan\\08. Anyanyelvünk rétegződése.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Nyelvtan\\08. Anyanyelvünk rétegződése.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Nyelvtan\\09. A magyar helyesírás rendszerszerűsége.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Nyelvtan\\09. A magyar helyesírás rendszerszerűsége.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Nyelvtan\\10. Szóelemek a magyar nyelvben.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Nyelvtan\\10. Szóelemek a magyar nyelvben.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Nyelvtan\\11. A mondat fogalma és típusai.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Nyelvtan\\11. A mondat fogalma és típusai.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Nyelvtan\\12. A szöveg szerkezete.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Nyelvtan\\12. A szöveg szerkezete.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Nyelvtan\\13. Az intertextualitás.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Nyelvtan\\13. Az intertextualitás.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Nyelvtan\\14. Szövegtípusok.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Nyelvtan\\14. Szövegtípusok.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Nyelvtan\\15. A beszéd felépítése.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Nyelvtan\\15. A beszéd felépítése.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Nyelvtan\\16. A szónoki beszéd fajtái.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Nyelvtan\\16. A szónoki beszéd fajtái.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Nyelvtan\\17. A szókincs mint stilisztikai eszköz.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Nyelvtan\\17. A szókincs mint stilisztikai eszköz.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Nyelvtan\\18. A tudományos stílus sajátosságai.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Nyelvtan\\18. A tudományos stílus sajátosságai.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Nyelvtan\\19. Az egyszerűbb szóképek hasonlat metafora metonímia.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Nyelvtan\\19. Az egyszerűbb szóképek hasonlat metafora metonímia.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Nyelvtan\\20. Az információs társadalom hatása a nyelvhasználatra.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Nyelvtan\\20. Az információs társadalom hatása a nyelvhasználatra.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Nyelvtan\\Nyelvtan_tetellista_24.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Nyelvtan\\Nyelvtan_tetellista_24.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Történelem\\01. Az ókori athéni demokrácia kialakulása és működése.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Történelem\\01. Az ókori athéni demokrácia kialakulása és működése.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Történelem\\02. Az iszlám kialakulása, elterjedése, főbb tanításai.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Történelem\\02. Az iszlám kialakulása, elterjedése, főbb tanításai.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Történelem\\03. Géza fejedelmsége és Szent István államszervező tevékenysége.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Történelem\\03. Géza fejedelmsége és Szent István államszervező tevékenysége.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Történelem\\04. A középkori magyar állam megerősödése I. Anjou Károly idején.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Történelem\\04. A középkori magyar állam megerősödése I. Anjou Károly idején.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Történelem\\05. IV. Béla és a tatárjárás.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Történelem\\05. IV. Béla és a tatárjárás.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Történelem\\06. A középkori város a polgárok, a városi jogok, a céhek működése. A középkori uradalom a földesurak és jobbágyok világa. A hűbériség..docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Történelem\\06. A középkori város a polgárok, a városi jogok, a céhek működése. A középkori uradalom a földesurak és jobbágyok világa. A hűbériség..docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Történelem\\07. Hunyadi János törökellenes harcai. Hunyadi Mátyás uralkodása..docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Történelem\\07. Hunyadi János törökellenes harcai. Hunyadi Mátyás uralkodása..docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Történelem\\08. A földrajzi felfedezések és a korai kapitalista gazdaság jellemzői..docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Történelem\\08. A földrajzi felfedezések és a korai kapitalista gazdaság jellemzői..docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Történelem\\09. A 18. század etnikai viszonyai, (betelepülés, betelepítés.) Mária Terézia reformjai.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Történelem\\09. A 18. század etnikai viszonyai, (betelepülés, betelepítés.) Mária Terézia reformjai.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Történelem\\10. A reformkor főbb kérdései. Széchenyi és Kossuth programja..docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Történelem\\10. A reformkor főbb kérdései. Széchenyi és Kossuth programja..docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Történelem\\11. A kiegyezés. A dualista állam. A dualizmus gazdasága.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Történelem\\11. A kiegyezés. A dualista állam. A dualizmus gazdasága.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Történelem\\12. Az ipari forradalom második hulláma. Az ipari munkásság. A szocializmus és a marxizmus.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Történelem\\12. Az ipari forradalom második hulláma. Az ipari munkásság. A szocializmus és a marxizmus.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Történelem\\13. Az I. világháború jellemzői hadviselő felek frontok hadviselés új formái, hátország.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Történelem\\13. Az I. világháború jellemzői hadviselő felek frontok hadviselés új formái, hátország.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Történelem\\14. A trianoni békediktátum születése tartalma következményei.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Történelem\\14. A trianoni békediktátum születése tartalma következményei.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Történelem\\15. A nácizmus (eszme hatalomra jutása). A nemzetiszocialista Németország főbb jellemzői.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Történelem\\15. A nácizmus (eszme hatalomra jutása). A nemzetiszocialista Németország főbb jellemzői.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Történelem\\16. Politikai és gazdasági konszolidáció a Horthy-rendszerben.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Történelem\\16. Politikai és gazdasági konszolidáció a Horthy-rendszerben.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Történelem\\17. Magyarország a II. világháborúban területi revízió hazánk háborúba sodródása német megszállás nyilas diktatúra a hadszíntérré vált ország.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Történelem\\17. Magyarország a II. világháborúban területi revízió hazánk háborúba sodródása német megszállás nyilas diktatúra a hadszíntérré vált ország.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Történelem\\18. A hidegháború a kétpólusú világrend kialakulása jellemzői, felbomlása.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Történelem\\18. A hidegháború a kétpólusú világrend kialakulása jellemzői, felbomlása.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Történelem\\19. A Rákosi korszak általános jellemzői és gazdasága.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Történelem\\19. A Rákosi korszak általános jellemzői és gazdasága.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Történelem\\20. A Kádár-korszak jellemzői.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Történelem\\20. A Kádár-korszak jellemzői.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\Tetelek\\Történelem\\Történelem_tetellista_24.docx",
+      "PackagePath": "staticwebassets\\Tetelek\\Történelem\\Történelem_tetellista_24.docx"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\download.png",
+      "PackagePath": "staticwebassets\\download.png"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\TetelBank\\TetelBank\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TetelBank.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TetelBank.props",
+      "PackagePath": "build\\TetelBank.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TetelBank.props",
+      "PackagePath": "buildMultiTargeting\\TetelBank.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TetelBank.props",
+      "PackagePath": "buildTransitive\\TetelBank.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

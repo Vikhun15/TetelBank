@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TetelBank/1.0.0": {
+        "dependencies": {
+          "Mammoth": "1.4.0"
+        },
+        "runtime": {
+          "TetelBank.dll": {}
+        }
+      },
+      "Mammoth/1.4.0": {
+        "runtime": {
+          "lib/net45/Mammoth.dll": {
+            "assemblyVersion": "1.4.0.0",
+            "fileVersion": "1.4.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TetelBank/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mammoth/1.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Fh8e07s+IJaPDKO5v0tW+x4SdZ/5Tq17AOAG0bdwZ3uqKdB3Ig4iUm4WyUmtP7D+i8TgqEa5COQD4U7QtobTWw==",
+      "path": "mammoth/1.4.0",
+      "hashPath": "mammoth.1.4.0.nupkg.sha512"
+    }
+  }
+}
